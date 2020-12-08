@@ -111,20 +111,16 @@ REQ-1: Users should be able to select what to export.
 REQ-2: Users should be able to export the data to docx or html.
 
 ## **5.Nonfunctional Requirements**
-REQ-1: The program shall be use to work on Windows.
-REQ-2: Users should easily understand the interface of the product
-REQ-3: Program should be available 7/24.
-REQ-4: The page should be viewable five seconds after it loads.
-REQ-5: The program shall be available in two languages.
-REQ-6: The program shall allow several import and export of page to be made at the same time without downgrading performance.
-REQ-7: When learning outcomes are written, the number of columns should be created automatically in section assessment.
-REQ-8: The maximum number of weeks should be 16, in the weekly subject section.
-REQ-9: The user should access the book title automatically according to the course code.
-REQ-10: The learning outcomes written should be a minimum of 4 and a maximum of 8.
-REQ-11: Information in the database should be updated when course information changes.
-REQ-12: This application requires a system with at least 1.2 GHz CPU and 1 GB of ram. The performance will be optimized under these conditions so the customer can use any command without any input or processing delays.
+REQ-1: The program shall be use to work on Windows.     
+REQ-2: Users should easily understand the interface of the product.     
+REQ-3: Program should be available 7/24.        
+REQ-4: The page should be viewable five seconds after it loads.     
+REQ-5: The program shall be available in two languages.     
+REQ-6: The program shall allow several import and export of page to be made at the same time without downgrading performance.       
+REQ-7: When learning outcomes are written, the number of columns should be created automatically in section assessment.     
+REQ-8: The maximum number of weeks should be 16, in the weekly subject section.     
+REQ-9: The user should access the book title automatically according to the course code.        
+REQ-10: The learning outcomes written should be a minimum of 4 and a maximum of 8.      
+REQ-11: Information in the database should be updated when course information changes.      
+REQ-12: This application requires a system with at least 1.2 GHz CPU and 1 GB of ram. The performance will be optimized under these conditions so the customer can use any command without any input or processing delays.      
 REQ-13: This application is responsive in its usage and scalability, and responsively scales in most common aspect resolutions.
-a   
-b   
-c   
-dgfdgfhh
