@@ -49,7 +49,9 @@ Our project database system stores the following parts:
  Part-1. General information about lecture: name, code, semester.   
  Part-2: Operational information about lecture: theory, application/lab, local credits, ECTS.   
  Part-3: Specification of lecture: prerequisites, course language, course type, course level, course coordinator, course lecturer(s).   
- Part-4:Course objectives.Part-5: Learning outcomes.Part-6: Course description. 
+ Part-4:Course objectives.  
+ Part-5: Learning outcomes. 
+ Part-6: Course description. 
  Part-7: Course category    
  Part-8: Weekly subjects and related preparation studies.   
  Part-9: Evaluation system. 
