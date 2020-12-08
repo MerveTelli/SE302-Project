@@ -48,12 +48,13 @@ The remainder of this document is three chapters. The second chapter give full d
 Our project database system stores the following parts:  
  Part-1. General information about lecture: name, code, semester.   
  Part-2: Operational information about lecture: theory, application/lab, local credits, ECTS.   
- Part-3: Specification of lecture: prerequisites, course language, course type, course level, course coordinator, course lecturer(s).Part-4: Course objectives.Part-5: Learning outcomes.Part-6: Course description.
-  Part-7: Course category
-  Part-8: Weekly subjects and related preparation studies.
-  Part-9: Evaluation system.
-  Part-10: Workload table.
-  Part-11: Program qualification relationship.
+ Part-3: Specification of lecture: prerequisites, course language, course type, course level, course coordinator, course lecturer(s).   
+ Part-4:Course objectives.Part-5: Learning outcomes.Part-6: Course description. 
+ Part-7: Course category    
+ Part-8: Weekly subjects and related preparation studies.   
+ Part-9: Evaluation system. 
+ Part-10: Workload table.   
+ Part-11: Program qualification relationship.
 #### **2.2 Product Functions**
 Project have basically 4 function which are import, export, create and edit. Importing part is for web pages get existing syllabus on the university web site. Create part mean creating from scratch there will be empty syllabus for fill out with lecture information. Export part is about exporting documents to docx or html for use. The last one edit is for stored all the information about syllabus until there.
 #### **2.3 Assumption Dependencies**
@@ -68,19 +69,19 @@ E-syllabus allows import a structured web sites links via HTML data format. Expo
 The program will use the hard disk. Also, because we will use GUI, use of keyboard and a mouse must be easier for use.
 
 ## **4.Functional Requirements**
-#### **4.1 Functional User Requirements**
-REQ-1: The user should be able to reach lesson’s schedule.
-REQ-2: The users should be able to find lessons’ total hours.
-REQ-3: The user should be able to learn lessons’ content.
-REQ-4: The user should be able to learn prerequisite.
-REQ-5: The user should be able to access course coordinator, course lecturer and assistant.
-REQ-6: The user should be able to access the program from multiple devices simultaneously.
-REQ-7: The user should be able to reach course objectives and learning outcomes.
-REQ-8: The user should be able to reach course category.
-REQ-9: The user should be able to reach weekly subjects and related preparations studies.
-REQ-10: The user should be able to find course notes, textbooks and materials.
-REQ-11: The user should be able to reach evaluation system.
-REQ-12: The user should be able to reach ECTS-Workload table (number and hours).
+#### **4.1 Functional User Requirements**   
+REQ-1: The user should be able to reach lesson’s schedule.  
+REQ-2: The users should be able to find lessons’ total hours.   
+REQ-3: The user should be able to learn lessons’ content.   
+REQ-4: The user should be able to learn prerequisite.   
+REQ-5: The user should be able to access course coordinator, course lecturer and assistant. 
+REQ-6: The user should be able to access the program from multiple devices simultaneously.  
+REQ-7: The user should be able to reach course objectives and learning outcomes.    
+REQ-8: The user should be able to reach course category.    
+REQ-9: The user should be able to reach weekly subjects and related preparations studies.   
+REQ-10: The user should be able to find course notes, textbooks and materials.  
+REQ-11: The user should be able to reach evaluation system. 
+REQ-12: The user should be able to reach ECTS-Workload table (number and hours).    
 REQ-13: The user should be able to learn outcomes and program qualifications relationship.
 #### **4.2 Functional System Requirements**
 #### **_4.2.1 Create Syllabus_**
