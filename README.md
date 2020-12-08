@@ -82,9 +82,9 @@ REQ-7: The user should be able to reach course objectives and learning outcomes.
 REQ-8: The user should be able to reach course category.    
 REQ-9: The user should be able to reach weekly subjects and related preparations studies.   
 REQ-10: The user should be able to find course notes, textbooks and materials.  
-REQ-11: The user should be able to reach evaluation system. 
-REQ-12: The user should be able to reach ECTS-Workload table (number and hours).    
-REQ-13: The user should be able to learn outcomes and program qualifications relationship.
+REQ-11: The user should be able to reach evaluation system.  
+ REQ-12: The user should be able to reach ECTS-Workload table (number and hours).    
+ REQ-13: The user should be able to learn outcomes and program qualifications relationship.
 #### **4.2 Functional System Requirements**
 #### **_4.2.1 Create Syllabus_**
 Description and Priority
