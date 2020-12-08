@@ -71,14 +71,14 @@ E-syllabus allows import a structured web sites links via HTML data format. Expo
 The program will use the hard disk. Also, because we will use GUI, use of keyboard and a mouse must be easier for use.
 
 ## **4.Functional Requirements**
-#### **4.1 Functional User Requirements**   
+#### **4.1 Functional User Requirements**
 REQ-1: The user should be able to reach lesson’s schedule.  
 REQ-2: The users should be able to find lessons’ total hours.   
 REQ-3: The user should be able to learn lessons’ content.   
 REQ-4: The user should be able to learn prerequisite.   
 REQ-5: The user should be able to access course coordinator, course lecturer and assistant. 
 REQ-6: The user should be able to access the program from multiple devices simultaneously.  
-REQ-7: The user should be able to reach course objectives and learning outcomes.   
+REQ-7: The user should be able to reach course objectives and learning outcomes.    
 REQ-8: The user should be able to reach course category.    
 REQ-9: The user should be able to reach weekly subjects and related preparations studies.   
 REQ-10: The user should be able to find course notes, textbooks and materials.  
