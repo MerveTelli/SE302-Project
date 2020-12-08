@@ -46,11 +46,11 @@ The remainder of this document is three chapters. The second chapter give full d
 ## **2.Overall Description**
 #### **2.1 Product Perspective**
 Our project database system stores the following parts:  Part-1. General information about lecture: name, code, semester.  Part-2: Operational information about lecture: theory, application/lab, local credits, ECTS.   Part-3: Specification of lecture: prerequisites, course language, course type, course level, course coordinator, course lecturer(s).  Part-4: Course objectives.  Part-5: Learning outcomes.  Part-6: Course description.
-Part-7: Course category
-Part-8: Weekly subjects and related preparation studies.
-Part-9: Evaluation system.
-Part-10: Workload table.
-Part-11: Program qualification relationship.
+  Part-7: Course category
+  Part-8: Weekly subjects and related preparation studies.
+  Part-9: Evaluation system.
+  Part-10: Workload table.
+  Part-11: Program qualification relationship.
 #### **2.2 Product Functions**
 Project have basically 4 function which are import, export, create and edit. Importing part is for web pages get existing syllabus on the university web site. Create part mean creating from scratch there will be empty syllabus for fill out with lecture information. Export part is about exporting documents to docx or html for use. The last one edit is for stored all the information about syllabus until there.
 #### **2.3 Assumption Dependencies**
