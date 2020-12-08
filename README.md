@@ -10,25 +10,25 @@
 **OUTLINE**
 
 1. Introduction
-  1. Purpose
-  2. Scope
-  3. References
-  4. Document Overview
+    1. Purpose
+    2. Scope
+    3. References
+    4. Document Overview
 2. Overall Description
-  1. Product Perspective
-  2. Product Function
-  2. Assumption Dependencies
+    1. Product Perspective
+    2. Product Function
+    3. Assumption Dependencies
 3. External Interface Requirement
-  1. User Interfaces
-  2. Software Interfaces
-  2. Hardware Interfaces
+    1. User Interfaces
+    2. Software Interfaces
+    3. Hardware Interfaces
 4. Functional Requirements
     1. Functional User Requirements
     2. Functional System Requirements 
-    3. Create Syllabus 
-    4. Edit Existing Syllabus
-    5. Import Syllabus 
-    6. Export Syllabus Data 
+        1. Create Syllabus 
+        2. Edit Existing Syllabus
+        3. Import Syllabus 
+        4. Export Syllabus Data 
 5. Nonfuntional Requirements
 
 
@@ -47,7 +47,8 @@ The remainder of this document is three chapters. The second chapter give full d
 #### **2.1 Product Perspective**
 Our project database system stores the following parts:
 Part-1: General information about lecture: name, code, semester.
-Part-2: Operational information about lecture: theory, application/lab, local credits, ECTS. Part-3: Specification of lecture: prerequisites, course language, course type, course level, course coordinator, course lecturer(s).
+Part-2: Operational information about lecture: theory, application/lab, local credits, ECTS. 
+Part-3: Specification of lecture: prerequisites, course language, course type, course level, course coordinator, course lecturer(s).
 Part-4: Course objectives.
 Part-5: Learning outcomes.
 Part-6: Course description.
