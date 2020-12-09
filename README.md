@@ -1,10 +1,10 @@
 # **Project of SE 302**
  
 ## **Authors:**
-### Yunus Cihan BOZKURT
+### Yunus Tufan BOZKURT
 ### Hazal Öykü ŞEN
 ### Merve Nur TELLİ
-### Özge TUNA
+### Özge TULA
 ---------------------------
 
 **OUTLINE**
