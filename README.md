@@ -72,35 +72,20 @@ The program will use the hard disk. Also, because we will use GUI, use of keyboa
 
 ## **4.Functional Requirements**
 #### **4.1 Functional User Requirements**
-
 REQ-1: Instructor’s accessibility and use the system.
-
 REQ-2: The users should be able to find lessons’ total hours.
-
 REQ-3: The user should be able to learn lessons’ content.
-
 REQ-4: The user should be able to learn prerequisite.
-
 REQ-5: The user should be able to access course coordinator, course lecturer and assistant.Teaching assistants’ and professors’ names, sites.
-
 REQ-6: The user should be able to access the program from multiple devices simultaneously.
-
 REQ-7: The user should be able to reach course objectives and learning outcomes.
-
 REQ-8: The user should be able to reach course category.
-
 REQ-9: The user should be able to reach weekly subjects and related preparations studies.
-
 REQ-10: Grade weights or values for major assignments, exams, quizzes, and others.
-
 REQ-11: The user should be able to reach evaluation system.
-
 REQ-12: The user should be able to reach ECTS-Workload table (number and hours).
-
 REQ-13: The user should be able to learn outcomes and program qualifications relationship.
-
-REQ-14:Textbook title, authors, edition.
-
+REQ-14:Textbook title, author(s), edition.
 #### **4.2 Functional System Requirements**
 #### **_4.2.1 Create Syllabus_**
 Description and Priority
