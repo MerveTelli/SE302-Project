@@ -1,3 +1,9 @@
+# **For Using**
+### Save the syllabus.db file in the sql folder under (C :).
+
+### Like (C :) / SQLite / syllabus.db
+---------------------------
+
 # **Project of SE 302**
  
 ## **Authors:**
