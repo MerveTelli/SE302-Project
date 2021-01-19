@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 
 public class baglanti {
-    static String url = "jdbc:sqlite:C://Users/merve/OneDrive/Belgeler/NetBeansProjects/se302/src/sql/syllabus.db";
+    static String url = "jdbc:sqlite:C://SQLite/syllabus.db";
     static Connection getConnection(){
         Connection conn=null;
         try {
