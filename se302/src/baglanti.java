@@ -26,16 +26,16 @@ public class baglanti {
         getConnection();
             
             
-            /* String sql = "select * from general_information";
+             String sql = "select * from general_information";
             try (
-               Statement st = conn.createStatement();
+               Statement st = getConnection().createStatement();
                ResultSet rs = st.executeQuery(sql)){
                
                while(rs.next()){
                    System.out.println(rs.getString("c_code"));
                }
             } catch (Exception e) { 
-            } */
+            } 
         } 
         
     }
